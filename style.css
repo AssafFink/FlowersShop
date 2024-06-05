@@ -1,6 +1,10 @@
-body {
-    background-color: cadetblue;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(darkmagenta, pink);
     text-align: center;
+    overflow: hidden;
 }
 
 .flowers-img {
